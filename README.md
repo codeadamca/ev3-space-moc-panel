@@ -1,4 +1,4 @@
-# LEGO Mindstorms EV3 Space Base Control Panel
+# LEGO® Mindstorms® EV3 Space Base Control Panel
 
 A web application and API to control a EV3 LEGO space MOC. Online application is available here:
 
